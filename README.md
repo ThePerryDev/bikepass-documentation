@@ -53,3 +53,7 @@ Em prol de um melhor aproveitamento do tempo disponível durante a segunda sprin
     
     
 → [Voltar ao topo](#topo)
+
+→ [Ir para o Projeto](https://github.com/ThePerryDev/bikepass)
+
+→ [Voltar para a página principal ](https://github.com/ThePerryDev)
