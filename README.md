@@ -28,7 +28,7 @@ Cada entrega será realizada a partir da criação de uma **tag** no repositóri
 | Sprint | Previsão | Status | Histórico | Link da Apresentação
 |:------:|:----------:|:-------------|:-------------------------------------------------:|:-------------------------------------------------:|
 | 01 | De 04/09/23 a 27/09/23 | :heavy_check_mark: Finalizado| [Ver relatório](https://github.com/ThePerryDev/bikepass-documentation/tree/sprint-01)| [SPRINT 01](https://youtu.be/0pfRr5eqHq4) |
-| 02 | De 02/10/23 a 25/10/23 | :heavy_check_mark: Em andamento| [Ver relatório](https://github.com/ThePerryDev/bikepass-documentation/tree/sprint-02)| [SPRINT 02]()           |
+| 02 | De 02/10/23 a 25/10/23 | :heavy_check_mark: Em andamento| [Ver relatório](https://github.com/ThePerryDev/bikepass-documentation/tree/sprint-02)| [SPRINT 02](https://www.youtube.com/watch?v=a7eHzc7epHg)           |
 | 03 | De 30/10/23 a 22/11/23 | :heavy_check_mark: Não iniciado|            |            |
 
 
