@@ -1,6 +1,6 @@
 <br id="topo">
 
-<p align="center"> <img src="./imagens_md/sp3.png" /></p>
+<p align="center"> <img src="./Imagens_md/sp3.png" /></p>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -49,7 +49,7 @@ Sendo asssim, finalizamos os requisitos propostos para esta sprint.
 ## :chart_with_upwards_trend: Métricas do time
 Em prol de um melhor aproveitamento do tempo disponível durante a segunda sprint o time se dividiu em atividades de desenvolvimento das telas da Homepage, Perfil de Usuário, Login e Cadastro do Usuário e dos Produtos, assim como estruturação da equipe para gestão das horas com o gráfico burndown abaixo.
     
-<p align="center"><img src="./imagens_md/burndown3.png" /></p>
+<p align="center"><img src="./Imagens_md/burndown3.png" /></p>
     
     
 → [Voltar ao topo](#topo)
