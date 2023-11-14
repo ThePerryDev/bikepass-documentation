@@ -9,7 +9,7 @@
 </p>
 
 
-O projeto é constituído  na construção de um site que ofereça serviços de aluguel de bicicletas, que permita que os usuários aluguem ou coloquem bicicletas para locação de acordo com a sua localização. Com base nessa estruturação a sprint 01 consistiu em horas voltadas para o levantamento de dados com o cliente, pesquisas bibliográficas, modelagem do banco de dados, desenvolvimento do wireframe, desenvolvimento da base do Front-End e do protótipo navegável do FIgma.
+O projeto é constituído  na construção de um site que ofereça serviços de aluguel de bicicletas, que permita que os usuários aluguem ou coloquem bicicletas para locação de acordo com a sua localização. Com base nessa estruturação a sprint 02 consistiu em horas voltadas para o desenvolvimento das páginas do site, assim como os testes e correções das mesmas.
 
 <span id="objetivos">
     
