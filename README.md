@@ -110,7 +110,7 @@ Para a construção do nosso projeto, utilizamos uma variedade de linguagens, fe
 
 ## :dart: Apresentação Final do Projeto
 
-[![Apresentação da página](./Imagens_md/OBRAS%20(2).png)]
+## [Veja a documentação disponível no Swagger](https://app.swaggerhub.com/apis/PERRYDEVAPI/BikePass/1.0.0)
 
 ###
 
